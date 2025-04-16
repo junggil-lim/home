@@ -1,4 +1,7 @@
 **회사 소개**
+<img width="156" alt="logo" src="https://github.com/user-attachments/assets/43cde6c9-07c2-4052-a757-a4e327793974" />
+
+
 About **Olive** Co., Ltd.
 
 주식회사 올리브는 부동산 임대업과 정보통신업을 기반으로,
