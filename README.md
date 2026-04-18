@@ -17,4 +17,4 @@ About **Olive** Co., Ltd.
 
 ---
 
-**Legal** · [Privacy Policy](policy.html) (개인정보 처리방침)
+**Legal** · [Privacy Policy]({{ '/policy.html' | relative_url }}) (개인정보 처리방침)

@@ -1,4 +1,6 @@
-# GitHub Pages (repo: junggil-lim/home) + custom domain olive-corp.online
-# Without this, Jekyll uses baseurl /home and pages may not match https://olive-corp.online/…
-url: "https://olive-corp.online"
-baseurl: ""
+# Project site path is /home on github.io. After you add Custom domain "olive-corp.online"
+# in repo Settings → Pages and DNS verifies, switch to:
+#   url: "https://olive-corp.online"
+#   baseurl: ""
+url: "https://junggil-lim.github.io"
+baseurl: "/home"
