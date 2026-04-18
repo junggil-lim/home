@@ -1,0 +1,4 @@
+# GitHub Pages (repo: junggil-lim/home) + custom domain olive-corp.online
+# Without this, Jekyll uses baseurl /home and pages may not match https://olive-corp.online/…
+url: "https://olive-corp.online"
+baseurl: ""

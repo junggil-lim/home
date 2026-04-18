@@ -15,3 +15,6 @@ About **Olive** Co., Ltd.
 더 많은 사람들에게 실질적인 도움을 주는 것,
 그것이 올리브가 추구하는 방향입니다.
 
+---
+
+**Legal** · [Privacy Policy](policy.html) (개인정보 처리방침)
